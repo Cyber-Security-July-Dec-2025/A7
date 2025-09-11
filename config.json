@@ -1,0 +1,19 @@
+{
+  "rsa": {
+    "bits": 2048,
+    "padding": "OAEP-SHA256"
+  },
+  "aes": {
+    "mode": "GCM",
+    "key_bits": 256,
+    "iv_len": 12
+  },
+  "dsa": {
+    "L": 2048,
+    "N": 224,
+    "hash": "SHA1"
+  },
+  "io": {
+    "max_preview_bytes": 16384
+  }
+}

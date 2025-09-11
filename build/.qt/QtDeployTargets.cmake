@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_MacCryptoGUI_FILE /Users/maskeensingh/Desktop/MacCryptoGUI/build/MacCryptoGUI)
+set(__QT_DEPLOY_TARGET_MacCryptoGUI_TYPE EXECUTABLE)
