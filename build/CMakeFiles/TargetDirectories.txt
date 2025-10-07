@@ -1,5 +1,0 @@
-/Users/maskeensingh/Desktop/MacCryptoGUI/build/CMakeFiles/MacCryptoGUI.dir
-/Users/maskeensingh/Desktop/MacCryptoGUI/build/CMakeFiles/edit_cache.dir
-/Users/maskeensingh/Desktop/MacCryptoGUI/build/CMakeFiles/rebuild_cache.dir
-/Users/maskeensingh/Desktop/MacCryptoGUI/build/CMakeFiles/MacCryptoGUI_autogen_timestamp_deps.dir
-/Users/maskeensingh/Desktop/MacCryptoGUI/build/CMakeFiles/MacCryptoGUI_autogen.dir
